@@ -14,6 +14,6 @@ This project is a small Python-based port scanner
 This tool is intende for educational and defensive security testin only.
 Scan only your owne system or have the explicit permission to test.
 
-##Wy this project
+## Wy this project
 The goal of this project is to undderstand networking basics and how attackers
 and defenders discover exposed sevices
