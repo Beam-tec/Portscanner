@@ -1,7 +1,7 @@
-#Simple Port scanner
+# Simple Port scanner
 This project is a small Python-based port scanner
 
-##What it does
+## What it does
 - Scans a target host for open TCP  ports
 - Uses basic socket connections
 - Helps understand how port scanning works in Cybersecurity
